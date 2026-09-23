@@ -40,7 +40,7 @@ This project provides an automated T-SQL analytics engine designed for Data Ware
 
 ---
 
-## Sample Output Preview (De-identified) 範例輸出預覽（已去識別化）
+## Sample Output Preview 範例預覽（已去識別化）
 <img width="1501" height="808" alt="image" src="https://github.com/user-attachments/assets/77feeae4-2595-437d-ad38-c31302c60016" />
 
 *(Note: Sensitive client codes and financial data have been blurred for privacy)*
