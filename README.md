@@ -1,8 +1,6 @@
-# FinTech AML & Multi-Account Margin Compliance Engine
-# 金融反洗錢與多帳號保證金合規引擎
+# FinTech AML & Multi-Account Margin Compliance Engine 金融反洗錢與多帳號保證金合規引擎
 
-## 📌 Project Overview
-## 📌 專案背景與概述
+## Project Overview 專案背景與概述
 In financial trading platforms, compliance rules often require clients to achieve a certain trading volume or margin usage after depositing funds to prevent Anti-Money Laundering (AML) risks. 
 在金融衍生品交易平台中，為了防止洗黑錢（AML）行為，通常會有一項合規規則：「當客戶的交易帳號入金後，必須達到一定的交易量或維持一定的保證金比例」。
 
@@ -14,8 +12,7 @@ This project provides an automated T-SQL analytics engine designed for Data Ware
 
 ---
 
-## 🔍 Key Features & Technical Highlights
-## 🔍 核心功能與技術亮點
+## Key Features & Technical Highlights 核心功能與技術亮點
 
 1. **Multi-Account Graph Traversal (Connected Group Mapping):**
    - Automatically traces and maps first-tier and extended connected accounts (`Connected_Group`) through internal transfer transaction patterns.
@@ -39,8 +36,7 @@ This project provides an automated T-SQL analytics engine designed for Data Ware
 
 ---
 
-## 📊 Sample Output Preview (De-identified)
-## 📊 範例輸出預覽（已去識別化）
+## Sample Output Preview (De-identified) 範例輸出預覽（已去識別化）
 *(Note: Sensitive client codes and financial data have been blurred for privacy)*
 *(註：為保護隱私，敏感的客戶代號與財務數據已進行模糊處理)*
 
@@ -53,8 +49,7 @@ This project provides an automated T-SQL analytics engine designed for Data Ware
 
 ---
 
-## 🛠️ Tech Stack
-## 🛠️ 技術堆疊
+## Tech Stack 技術堆疊
 - **Database:** Microsoft SQL Server (T-SQL)
   - **資料庫：** Microsoft SQL Server (T-SQL)
 - **Concepts:** Data Warehousing, Anti-Money Laundering (AML), Risk Analytics, Complex Joins & CTEs, Financial Data Engineering.
