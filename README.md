@@ -1,5 +1,4 @@
-# 金融反洗錢與多帳號保證金合規引擎
-FinTech AML & Multi-Account Margin Compliance Engine 
+# 金融反洗錢與多帳號保證金合規引擎 FinTech AML & Multi-Account Margin Compliance Engine 
  
 ## 專案背景與概述 Project Overview
 在金融衍生品交易平台中，為了防止洗黑錢（AML）行為，通常會有一項合規規則：「當客戶的交易帳號入金後，必須達到一定的交易量或維持一定的保證金比例」。
